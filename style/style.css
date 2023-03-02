@@ -60,7 +60,7 @@ body {
 }
 
 .container__botao:hover {
-    background-color: #9b6bf5;
+    background-color: #3c92fa;
     color: var(--cor-de-fundo);
 }
 
